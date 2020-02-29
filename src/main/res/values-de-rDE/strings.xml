@@ -46,4 +46,18 @@
         <xliff:g example="\t• Kleinere Fehler wurden behoben.\n" id="changelog">%2$s</xliff:g>
         \n\nViel Spaß und vergiß nicht, die Entwickler zu unterstützen.     "</string>
     <string name="toast_double_click_back_button" tools:ignore="MissingTranslation">Drücke Zurück nochmal zum Beenden</string>
-    </resources>
+    <string name="progress_starting" tools:ignore="MissingTranslation">starte</string>
+    <string name="progress_done" tools:ignore="MissingTranslation">fertig</string>
+    <string name="progress_error" tools:ignore="MissingTranslation">ein Fehler trat auf</string>
+    <string name="progress_input_preview" tools:ignore="MissingTranslation">empfange Bild</string>
+    <string name="progress_preparing_clustering" tools:ignore="MissingTranslation">bereite Clustering vor</string>
+    <string name="progress_sample_data" tools:ignore="MissingTranslation">wähle Farben zum Klassifizieren</string>
+    <string name="progress_clustering_data" tools:ignore="MissingTranslation">finde gute Farben für das Bild</string>
+    <string name="progress_create_cluster" tools:ignore="MissingTranslation">erstelle klassifiziertes Bild</string>
+    <string name="progress_counting_sizes" tools:ignore="MissingTranslation">messe Gebiete</string>
+    <string name="progress_removing_noise" tools:ignore="MissingTranslation">entferne kleine Gebiete, die nicht bemalt werden können</string>
+    <string name="progress_show_cluster" tools:ignore="MissingTranslation">zeige das klassifizierte Bild</string>
+    <string name="progress_show_smoothed_image" tools:ignore="MissingTranslation">zeige das Bild mit den größeren bemalbaren Gebieten</string>
+    <string name="progress_draw_lines" tools:ignore="MissingTranslation">male Linien um die Gebiete</string>
+
+</resources>
