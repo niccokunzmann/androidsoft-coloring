@@ -1,0 +1,1 @@
+Kleinere Fehler wurden behoben (Synchronisation bei der Deinstallation).
