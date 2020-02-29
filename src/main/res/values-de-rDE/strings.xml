@@ -25,7 +25,6 @@
     <string name="dialog_saving_ok">OK!</string>
     <string name="dialog_saving_error">Fehler!</string>
     <string name="dialog_share">Teile das Bild mit</string>
-
     <!-- Credits screen -->
     <string name="credits_current_version" formatted="true">Version <xliff:g example="1.0.1" id="versionName">%1$s</xliff:g></string>
 
@@ -57,5 +56,4 @@
     <string name="progress_show_cluster" tools:ignore="MissingTranslation">zeige das klassifizierte Bild</string>
     <string name="progress_show_smoothed_image" tools:ignore="MissingTranslation">zeige das Bild mit den größeren bemalbaren Gebieten</string>
     <string name="progress_draw_lines" tools:ignore="MissingTranslation">male Linien um die Gebiete</string>
-
-</resources>
+    </resources>
