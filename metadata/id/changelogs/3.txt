@@ -1,0 +1,6 @@
+- tambah klik ganda untuk keluar aktivitas melukis
+- hapus gambar pratinjau untuk membuat aplikasi lebih kecil
+- tambah bahasa Jerman dan Portugis Brazil
+- tambahkan mode fullscreen
+- izinkan gambar dibagikan dengan aplikasi dan diklarifikasi
+- Gunakan spektrum warna HSV untuk mengurangi lokasi sumber cahaya
