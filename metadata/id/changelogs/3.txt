@@ -3,4 +3,3 @@
 - tambah bahasa Jerman dan Portugis Brazil
 - tambahkan mode fullscreen
 - izinkan gambar dibagikan dengan aplikasi dan diklarifikasi
-- Gunakan spektrum warna HSV untuk mengurangi lokasi sumber cahaya
