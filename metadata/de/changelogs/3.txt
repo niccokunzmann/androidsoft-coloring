@@ -3,4 +3,3 @@
 - Deutsche und Portugisische Übersetzung
 - Vollbildmodus
 - Bilder können mit der App geteilt werden und werden klassifiziert
-- die App benutzt das HSV-Farbspektrum, um dein Einfluss der Position der Lichtwquelle auf die Klassifizierung zu minimieren
