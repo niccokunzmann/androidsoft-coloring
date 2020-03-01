@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright (C) 2010 Peter Dornbach.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coloring Book</string>
+
+    <string name="menu_new">Baru</string>
+    <string name="menu_save">Simpan</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="menu_about">Tentang</string>
+
+    <string name="dialog_saving">Menyimpan ke Gambar...</string>
+    <string name="dialog_saving_ok">OK!</string>
+    <string name="dialog_saving_error">Kesalahan!</string>
+    <string name="dialog_share">Bagikan gambar menggunakan</string>
+    <!-- Credits screen -->
+    <string name="credits_current_version" formatted="true">Versi<xliff:g example="1.0.1" id="versionName">%1$s</xliff:g></string>
+
+    <string name="button_go">Mulai</string>
+
+    <!-- What's new dialog -->
+    <string name="first_run_dialog_title">Selamat datang di Coloring Book!</string>
+    <string name="first_run_dialog_message">Terima kasih sudah mengunduh Coloring Book
+Instruksi permulaan cepat
+Pilih warna dan lukis cetakan dengan jarimu.
+Selamat mencoba!</string>
+    <string name="whats_new_dialog_title">Apa yang baru di versi Coloring Book ini?</string>
+    <string name="whats_new_dialog_message" formatted="true">Terima kasih telah memperbarui Coloring Book
+<b>Yang baru di versi <xliff:g example="1.0.1" id="versionName">%1$s</xliff:g>:</b>
+<xliff:g example="\t• Minor bugs fixes.\n" id="changelog">%2$s</xliff:g>
+Nikmati dan jangan lupa memberi rating untuk mendukung pengembangan aplikasi.</string>
+    <string name="toast_double_click_back_button" tools:ignore="MissingTranslation">Tekan Kembali lagi untuk keluar</string>
+    <string name="progress_starting" tools:ignore="MissingTranslation">memulai</string>
+    <string name="progress_done" tools:ignore="MissingTranslation">selesai</string>
+    <string name="progress_error" tools:ignore="MissingTranslation">terjadi kesalahan</string>
+    <string name="progress_input_preview" tools:ignore="MissingTranslation">menerima gambar</string>
+    <string name="progress_preparing_clustering" tools:ignore="MissingTranslation">menyiapkan pengelompokan</string>
+    <string name="progress_sample_data" tools:ignore="MissingTranslation">memilih warna untuk dikategorikan</string>
+    <string name="progress_clustering_data" tools:ignore="MissingTranslation">menemukan warna yang ccocok dengan gambar</string>
+    <string name="progress_create_cluster" tools:ignore="MissingTranslation">membuat gambar terkategori</string>
+    <string name="progress_counting_sizes" tools:ignore="MissingTranslation">mengukur area</string>
+    <string name="progress_removing_noise" tools:ignore="MissingTranslation">menghapus area kecil yang tidak bisa digambar</string>
+    <string name="progress_show_cluster" tools:ignore="MissingTranslation">menampilkan gambar terkategori</string>
+    <string name="progress_show_smoothed_image" tools:ignore="MissingTranslation">menampilkan gambar dengan area lukis lebih besar</string>
+    <string name="progress_draw_lines" tools:ignore="MissingTranslation">menggambar garis di sekeliling area</string>
+    </resources>
